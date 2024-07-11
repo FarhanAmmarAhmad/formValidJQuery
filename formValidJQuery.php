@@ -8,7 +8,7 @@
     </style>
 </head>
 <body>
-    <h1>git Remote Repository Test</h1>
+    <h1>Git Learning Test</h1>
     <h2>Registration Form</h2>
     <form id="registrationForm">
         <label for="name">Name:</label>
